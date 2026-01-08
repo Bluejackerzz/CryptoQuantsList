@@ -12,11 +12,12 @@ using YahooFinance API to extract all of availables Layer-1 Cryptocurrencies ass
 
 ## Current Version
 the Current Stable Version, still has the Mesh Graph bugged.
-
+```
 Current Version Update
 -Adding backtesting calculator to check the engine performance
 -Adding Hurst Model to calculate the trading Position(Entry,SL/TP) to minimize drawdown
 -The Demo Equity(BYBIT API USAGE) hasnt been tested, expect errors
+```
 
 ## The ideas behind it.
 special thanks to @sd_jeong on IG, as an inspiration for this project

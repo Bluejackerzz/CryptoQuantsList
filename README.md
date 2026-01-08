@@ -23,6 +23,15 @@ Current Version Update
 -Adding Hurst Model to calculate the trading Position(Entry,SL/TP) to minimize drawdown
 -The Demo Equity(BYBIT API USAGE) hasnt been tested, expect errors
 ```
-
+## How To run
+Run this Command :
+```
+pip install -r requirements.txt
+python quant.py
+```
+Go to your browser and paste 
+```
+http://127.0.0.1:5000/
+```
 ## The ideas behind it.
 special thanks to @sd_jeong on IG, as an inspiration for this project
